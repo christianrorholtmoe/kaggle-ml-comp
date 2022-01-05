@@ -1,1 +1,2 @@
-print (1)
+print ("Hello! This is a test of the CPU cluster!")
+
