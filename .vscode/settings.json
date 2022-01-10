@@ -1,3 +1,11 @@
 {
-    "azureML.defaultWorkspaceId": "/subscriptions/70fe1e45-8ed5-4134-8c20-1c36f126bdb6/resourceGroups/rgAzureMLWorkspace/providers/Microsoft.MachineLearningServices/workspaces/mlworkspace"
+    "azureML.defaultWorkspaceId": "/subscriptions/70fe1e45-8ed5-4134-8c20-1c36f126bdb6/resourceGroups/rgAzureMLWorkspace/providers/Microsoft.MachineLearningServices/workspaces/mlworkspace",
+
+    "python.pythonPath": "C:\\Users\\g014628\\Miniconda3\\envs\\claimsModel\\python.exe",
+
+    "python.terminal.activateEnvironment": true,
+    "jupyter.jupyterServerType": "local"
+    
+
+
 }
