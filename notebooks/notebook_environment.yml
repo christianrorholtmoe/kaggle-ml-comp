@@ -7,7 +7,6 @@ dependencies:
   - azureml-core==1.36.0.post2
   - azureml-pipeline==1.36.0
   - azureml-train-core==1.36.0
-  - ipykernel == 6.4.1
   - joblib==1.1.0
   - numpy==1.20.3
   - openpyxl==3.0.9
@@ -18,5 +17,3 @@ dependencies:
   - scikit-learn==1.0.1
   - scipy==1.7.3
   - statsmodels==0.13.1
-  - xgboost
-  
